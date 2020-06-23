@@ -42,11 +42,7 @@ namespace JenkinsTest
         /// that will in turn invoke this method.</remarks>
         void ITestModule.Run()
         {
-            Mouse.DefaultMoveTime = 300;
-            Keyboard.DefaultKeyPressTime = 100;
-            Delay.SpeedFactor = 1.0;
-            
-            Report.Success("Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
+           Report.Success("Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
         }
     }
 }
