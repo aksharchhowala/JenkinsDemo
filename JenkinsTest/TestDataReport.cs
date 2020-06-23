@@ -46,7 +46,7 @@ namespace JenkinsTest
             Keyboard.DefaultKeyPressTime = 100;
             Delay.SpeedFactor = 1.0;
             
-            Report.Success($"Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
+            Report.Success("Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
         }
     }
 }
