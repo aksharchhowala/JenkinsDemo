@@ -1,11 +1,12 @@
 ﻿<Properties>
   <Array name="active">
-    <Element value="TestDataReport.cs" />
+    <Element value="NewTestSuit.rxtst" />
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="JenkinsTest.rxtst" />
     <Element value="TestDataReport.cs" />
+    <Element value="NewTestSuit.rxtst" />
   </Array>
   <Properties name="projectSavedData" />
 </Properties>

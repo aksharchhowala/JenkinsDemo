@@ -2,6 +2,20 @@
 <testsuitedoc>
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
+			<testmodule
+			id="02c62435-8a33-4506-a7d8-009cc3e27811"
+			name="TestDataReport"
+			ref="2e29088f-44ce-4331-acd2-4767de964dcd"
+			type="UserCode">
+			</testmodule>
+			<testcase
+			id="2bd07379-a912-43c0-935f-663762c9234b"
+			name="DemoTwo">
+			</testcase>
+			<testcase
+			id="4c133d55-dd0e-49ad-885a-d76ff760b604"
+			name="OneDemo">
+			</testcase>
 			<testcase
 			id="aa923c5c-6a28-426b-9d90-990528a48922"
 			name="NewTestSuit"
@@ -26,6 +40,12 @@
 			reporttemplatefolder=""
 			reportwriteinterval="30000ms">
 			</testsuite>
+			<testmodule
+			id="c7b2cc6a-b433-4c59-81f9-05df4bc6a387"
+			name="TestDataReport"
+			ref="2e29088f-44ce-4331-acd2-4767de964dcd"
+			type="UserCode">
+			</testmodule>
 			<testcase
 			id="e6501b66-4817-4807-aee7-4afaa7107dd0"
 			name="FreshExecution">
@@ -52,6 +72,22 @@
 						name="TestDataReport">
 						</testmodule>
 					</testcase>
+					<testcase
+					id="4c133d55-dd0e-49ad-885a-d76ff760b604"
+					name="OneDemo">
+						<testmodule
+						id="c7b2cc6a-b433-4c59-81f9-05df4bc6a387"
+						name="TestDataReport">
+						</testmodule>
+					</testcase>
+					<testcase
+					id="2bd07379-a912-43c0-935f-663762c9234b"
+					name="DemoTwo">
+						<testmodule
+						id="02c62435-8a33-4506-a7d8-009cc3e27811"
+						name="TestDataReport">
+						</testmodule>
+					</testcase>
 				</testcase>
 			</testsuite>
 		</childhierarchy>
@@ -59,14 +95,41 @@
 	<datasources>
 	</datasources>
 	<testconfigurations
-	default="TestRun">
+	default="All">
 		<testconfiguration
-		name="TestRun">
+		name="All">
+			<testcontainer
+			id="2bd07379-a912-43c0-935f-663762c9234b">
+			</testcontainer>
+			<testcontainer
+			id="4c133d55-dd0e-49ad-885a-d76ff760b604">
+			</testcontainer>
 			<testcontainer
 			id="aa923c5c-6a28-426b-9d90-990528a48922">
 			</testcontainer>
 			<testcontainer
 			id="e6501b66-4817-4807-aee7-4afaa7107dd0">
+			</testcontainer>
+		</testconfiguration>
+		<testconfiguration
+		name="BothDemo">
+			<testcontainer
+			id="2bd07379-a912-43c0-935f-663762c9234b">
+			</testcontainer>
+			<testcontainer
+			id="aa923c5c-6a28-426b-9d90-990528a48922">
+			</testcontainer>
+			<testcontainer
+			id="e6501b66-4817-4807-aee7-4afaa7107dd0">
+			</testcontainer>
+		</testconfiguration>
+		<testconfiguration
+		name="OneDemo">
+			<testcontainer
+			id="2bd07379-a912-43c0-935f-663762c9234b">
+			</testcontainer>
+			<testcontainer
+			id="aa923c5c-6a28-426b-9d90-990528a48922">
 			</testcontainer>
 		</testconfiguration>
 	</testconfigurations>
