@@ -1,0 +1,12 @@
+[
+  {
+    "Enabled": "True",
+    "TestSuite": "JenkinsTest",
+    "RunConfig": "Config2"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "NewTestSuit",
+    "RunConfig": "TestRun"
+  }
+]

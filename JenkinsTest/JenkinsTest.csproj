@@ -133,9 +133,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="NewTestSuit.rxtst">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>6276dbd2-f3ac-4e39-b31b-883abb63b171</id>
+    </Content>
     <None Include="app.config">
       <id>ab5265df-a954-41f4-a6b8-b9a0de2abe69</id>
     </None>
+    <Content Include="JenkinsTest.rxsqc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Content Include="JenkinsTest.rxtmg">
