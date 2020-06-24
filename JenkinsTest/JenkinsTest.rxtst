@@ -77,12 +77,18 @@
 	<datasources>
 	</datasources>
 	<testconfigurations
-	default="TestRun">
+	default="Config2">
 		<testconfiguration
-		name="TestRun">
+		name="Config1">
 			<testcontainer
 			id="1fc27c42-af42-458c-84ea-c65f64f34e66">
 			</testcontainer>
+			<testcontainer
+			id="80efd623-3907-4ab7-a62e-6ab818687d64">
+			</testcontainer>
+		</testconfiguration>
+		<testconfiguration
+		name="Config2">
 			<testcontainer
 			id="80efd623-3907-4ab7-a62e-6ab818687d64">
 			</testcontainer>

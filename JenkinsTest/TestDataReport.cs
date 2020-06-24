@@ -42,8 +42,7 @@ namespace JenkinsTest
         /// that will in turn invoke this method.</remarks>
         void ITestModule.Run()
         {
-           Report.Success("Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
-           Report.Success("Kshitija Demo");
+           Report.Success("Test Report from "+TestSuite.Current.Name+" => "+TestSuite.CurrentTestContainer.Name);
         }
     }
 }
