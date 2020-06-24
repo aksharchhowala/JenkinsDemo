@@ -8,7 +8,7 @@
     "Enabled": "True",
     "TestSuite": "NewTestSuit",
     "RunConfig": "TestRun"
-  }
+  },
   {
     "Enabled": "True",
     "TestSuite": "NewTestSuit",
