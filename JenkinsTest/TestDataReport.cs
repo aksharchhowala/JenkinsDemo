@@ -43,7 +43,7 @@ namespace JenkinsTest
         void ITestModule.Run()
         {
            Report.Success("Test Report from {TestSuite.Current.Name} => {TestSuite.CurrentTestContainer.Name}" );
-           Report.Success("Modified the execution file");
+           Report.Success("Kshitija Demo");
         }
     }
 }
