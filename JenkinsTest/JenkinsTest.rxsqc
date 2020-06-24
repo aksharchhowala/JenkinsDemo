@@ -7,7 +7,7 @@
   {
     "Enabled": "True",
     "TestSuite": "NewTestSuit",
-    "RunConfig": "TestRun"
+    "RunConfig": "BothDemo"
   },
   {
     "Enabled": "True",
