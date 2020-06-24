@@ -10,11 +10,11 @@
 			</testmodule>
 			<testcase
 			id="2bd07379-a912-43c0-935f-663762c9234b"
-			name="DemoTwo">
+			name="Fresh2">
 			</testcase>
 			<testcase
 			id="4c133d55-dd0e-49ad-885a-d76ff760b604"
-			name="OneDemo">
+			name="Fresh1">
 			</testcase>
 			<testcase
 			id="aa923c5c-6a28-426b-9d90-990528a48922"
@@ -74,7 +74,7 @@
 					</testcase>
 					<testcase
 					id="4c133d55-dd0e-49ad-885a-d76ff760b604"
-					name="OneDemo">
+					name="Fresh1">
 						<testmodule
 						id="c7b2cc6a-b433-4c59-81f9-05df4bc6a387"
 						name="TestDataReport">
@@ -82,7 +82,7 @@
 					</testcase>
 					<testcase
 					id="2bd07379-a912-43c0-935f-663762c9234b"
-					name="DemoTwo">
+					name="Fresh2">
 						<testmodule
 						id="02c62435-8a33-4506-a7d8-009cc3e27811"
 						name="TestDataReport">
@@ -95,7 +95,7 @@
 	<datasources>
 	</datasources>
 	<testconfigurations
-	default="All">
+	default="OneDemo">
 		<testconfiguration
 		name="All">
 			<testcontainer
