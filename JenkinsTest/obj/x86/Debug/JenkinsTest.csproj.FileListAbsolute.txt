@@ -10,3 +10,17 @@ C:\Akshar Chhowala\PersonalApp\JenkinsTest\JenkinsTest\obj\x86\Debug\JenkinsTest
 C:\Akshar Chhowala\PersonalApp\JenkinsTest\JenkinsTest\obj\x86\Debug\JenkinsTest.csproj.CopyComplete
 C:\Akshar Chhowala\PersonalApp\JenkinsTest\JenkinsTest\obj\x86\Debug\JenkinsTest.exe
 C:\Akshar Chhowala\PersonalApp\JenkinsTest\JenkinsTest\obj\x86\Debug\JenkinsTest.pdb
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\NewTestSuit.rxtst
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.rxsqc
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.rxtmg
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.rxtst
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.xml
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.exe
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\JenkinsTest.pdb
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\obj\x86\Debug\JenkinsTest.csprojAssemblyReference.cache
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\obj\x86\Debug\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\obj\x86\Debug\JenkinsTest.csproj.CopyComplete
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\obj\x86\Debug\JenkinsTest.exe
+C:\Akshar Chhowala\PersonalApp\JenkinsDemo\JenkinsTest\obj\x86\Debug\JenkinsTest.pdb

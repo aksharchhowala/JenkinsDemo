@@ -2,6 +2,12 @@
 <testsuitedoc>
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
+			<testmodule
+			id="0d230049-ebab-4fb3-a5ab-fabc51fa394d"
+			name="TestDataReport"
+			ref="2e29088f-44ce-4331-acd2-4767de964dcd"
+			type="UserCode">
+			</testmodule>
 			<testcase
 			id="1fc27c42-af42-458c-84ea-c65f64f34e66"
 			name="TestCase">
@@ -12,6 +18,10 @@
 			ref="2e29088f-44ce-4331-acd2-4767de964dcd"
 			type="UserCode">
 			</testmodule>
+			<smartfoldernode
+			id="5786226f-d23d-418d-a964-78c1835c9bbd"
+			name="Inside_Demo">
+			</smartfoldernode>
 			<testsuite
 			ReportTime="RelativeToTestSuiteStartTime"
 			TracingScreenshotMode="Foreground"
@@ -61,6 +71,14 @@
 						id="29060a68-c00c-4b8d-bf8d-c5d78795a43f"
 						name="TestDataReport">
 						</testmodule>
+						<smartfoldernode
+						id="5786226f-d23d-418d-a964-78c1835c9bbd"
+						name="Inside_Demo">
+							<testmodule
+							id="0d230049-ebab-4fb3-a5ab-fabc51fa394d"
+							name="TestDataReport">
+							</testmodule>
+						</smartfoldernode>
 					</testcase>
 					<testcase
 					id="ca5775ea-8fc1-41e9-a03b-cd4cf54d5163"

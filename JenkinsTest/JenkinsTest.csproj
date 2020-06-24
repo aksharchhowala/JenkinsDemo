@@ -142,6 +142,7 @@
     </None>
     <Content Include="JenkinsTest.rxsqc">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>83b0b9a6-1c16-43e7-a44a-3bfa910fdb60</id>
     </Content>
   </ItemGroup>
   <ItemGroup>

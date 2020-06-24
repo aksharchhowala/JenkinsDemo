@@ -95,7 +95,7 @@
 	<datasources>
 	</datasources>
 	<testconfigurations
-	default="All">
+	default="BothDemo">
 		<testconfiguration
 		name="All">
 			<testcontainer
