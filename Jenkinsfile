@@ -1,12 +1,18 @@
 pipeline {
-    agent any
-    stages {
-         parallel (
-        stage('Build') {
+    stages('Run test in parallel') {
+        parallel {
+        stage('Project test 1') {
+            agent any
             steps {
-                echo "Hello World"
+                echo "Hello World 1"
             }
         }
-             )
+            stage('Projest test 2'){
+                agent any 
+                steps {
+                    echo "Hello World 2"
+                }
+            }
+        }
     }
 }
