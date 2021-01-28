@@ -4,7 +4,7 @@ pipeline {
         parallel {
         stage('Project test 1') {
             agent {
-				node { lable "Test" }
+				node { lable 'Test' }
 			}
             steps {
                 echo "Hello World 1"
@@ -12,7 +12,7 @@ pipeline {
         }
             stage('Projest test 2'){
                  agent {
-				node { lable "Test" }
+				node { lable 'Test' }
 			}
                 steps {
                     echo "Hello World 2"
