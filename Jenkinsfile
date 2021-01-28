@@ -1,5 +1,6 @@
 pipeline {
-    stages('Run test in parallel') {
+    stages {
+		stage ('Run test in parallel') {
         parallel {
         stage('Project test 1') {
             agent any
@@ -14,5 +15,6 @@ pipeline {
                 }
             }
         }
+		}
     }
 }
