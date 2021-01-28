@@ -10,9 +10,7 @@ pipeline {
             					}
         				}
             				stage('Projest test 2'){
-                 			agent {
-						node { lable 'Test' }
-					}
+                 			agent any
                 				steps {
             	        				echo "Hello World 2"
                 				}
